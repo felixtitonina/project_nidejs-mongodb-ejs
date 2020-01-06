@@ -8,6 +8,7 @@ Este projeto registra usuario e com reset de password com criptografada
 $ npm install
 ```
 
+### Start projeto
 ```sh
 $ npm start
 # com o Nodemon
@@ -16,6 +17,6 @@ $ npm run dev
 #  http://localhost:5000
 ```
 
-### MongoDB
+### Banco
 
 Mongodb local
